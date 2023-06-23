@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://andreadelpech.github.io/csb-df2rj7/static/css/main.9d542134.chunk.css",
+    "main.js": "https://andreadelpech.github.io/csb-df2rj7/static/js/main.0e10bbf8.chunk.js",
+    "main.js.map": "https://andreadelpech.github.io/csb-df2rj7/static/js/main.0e10bbf8.chunk.js.map",
+    "runtime-main.js": "https://andreadelpech.github.io/csb-df2rj7/static/js/runtime-main.0b1feddf.js",
+    "runtime-main.js.map": "https://andreadelpech.github.io/csb-df2rj7/static/js/runtime-main.0b1feddf.js.map",
+    "static/js/2.c1f30163.chunk.js": "https://andreadelpech.github.io/csb-df2rj7/static/js/2.c1f30163.chunk.js",
+    "static/js/2.c1f30163.chunk.js.map": "https://andreadelpech.github.io/csb-df2rj7/static/js/2.c1f30163.chunk.js.map",
+    "index.html": "https://andreadelpech.github.io/csb-df2rj7/index.html",
+    "static/css/main.9d542134.chunk.css.map": "https://andreadelpech.github.io/csb-df2rj7/static/css/main.9d542134.chunk.css.map",
+    "static/js/2.c1f30163.chunk.js.LICENSE.txt": "https://andreadelpech.github.io/csb-df2rj7/static/js/2.c1f30163.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b1feddf.js",
+    "static/js/2.c1f30163.chunk.js",
+    "static/css/main.9d542134.chunk.css",
+    "static/js/main.0e10bbf8.chunk.js"
+  ]
+}
